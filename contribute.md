@@ -1,7 +1,7 @@
-#contributing
+#Contributing
 
-##Set-up
-1. ensure you have python 3 on your computer (type 'which python3' in the terminal)
+1. ensure you have python 3 on your computer
+which python3
 
 2. Cloning The Project Locally
 
