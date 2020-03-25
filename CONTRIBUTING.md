@@ -20,6 +20,9 @@
 
 5. Install dependencies from requirements.txt:
   * pip install -r requirements.txt
+  
+6. If working with Excel files, install xlrd dependency
+  * pip install xlrd
 
 6. Open Jupyter lab
   * jupyter lab
